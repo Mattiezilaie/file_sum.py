@@ -22,4 +22,4 @@ def file_sum(name):
                 print("The file was not found")
 
 
-file_sum("num.txt")     # test
+
